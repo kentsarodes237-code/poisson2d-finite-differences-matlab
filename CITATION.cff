@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Poisson 2D Finite Differences in MATLAB"
+type: software
+authors:
+  - family-names: "Kentsa Melatchi"
+    given-names: "Rodes"
+year: 2026
